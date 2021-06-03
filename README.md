@@ -1,4 +1,4 @@
-# Hi there 👋, my I'm Ishraq Ahmed Esha
+# Hi there 👋, I'm Ishraq Ahmed Esha
 #### Software Developer || Student || Programmer ||
 
 - 📫 How to reach me: ishraqahmedbd@gmail.com 
