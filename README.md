@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Ishraq Ahmed Esha
-#### Software Developer || Student || Programmer ||
+#### Software Developer || Programmer || Student ||
 
 - 📫 How to reach me: ishraqahmedbd@gmail.com 
 
