@@ -12,8 +12,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedishraq&show_icons=true&locale=en&layout=compact" alt="ahmedishraq" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq)  
+ -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true&locale=en" alt="ahmedishraq" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq&" alt="ahmedishraq" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/ahmedishraq)  
