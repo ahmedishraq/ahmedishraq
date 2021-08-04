@@ -10,14 +10,30 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedishraq)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedishraq&show_icons=true&locale=en&layout=compact" alt="ahmedishraq" /></p>
+<!-- old version of readme stats -->
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedishraq&show_icons=true&locale=en&layout=compact" alt="ahmedishraq" /></p> -->
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true&locale=en" alt="ahmedishraq" /></p> -->
+
+<!-- end old version of readme stats-->
+
+<!-- new look for lang-->
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedishraq&langs_count=12&theme=tokyonight&layout=compact" /></td>
+        <!--<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td> -->
+     <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true&locale=en" alt="ahmedishraq" /></td>
+    </tr>   
+  </table>
+</center>
+
+<!-- end new look for lang -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq)  
  -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true&locale=en" alt="ahmedishraq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq&" alt="ahmedishraq" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/ahmedishraq)  
