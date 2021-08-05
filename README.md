@@ -31,9 +31,9 @@
 
 <!-- end new look for lang -->
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true) --> 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq)  
- -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq) 
+
 
 ![Profile views](https://gpvc.arturio.dev/ahmedishraq)  
