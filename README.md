@@ -24,7 +24,7 @@
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedishraq&langs_count=12&theme=tokyonight&layout=compact" /></td>
         <!--<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td> -->
-     <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true&locale=en" alt="ahmedishraq" /></td>
+     <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true&theme=radical" alt="ahmedishraq" /></td>
     </tr>   
   </table>
 </center>
