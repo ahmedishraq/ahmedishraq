@@ -11,8 +11,26 @@ Hi there 👋 I'm Ishraq Ahmed Esha
 
 - 📫 How to reach me: ishraqahmedbd@gmail.com 
 
+<!-- new social media icon start  -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedishraq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishraq-ahmed-esha-244978172/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ishraq.ahmed.14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed_ishraq) 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/ishraq-ahmed-esha-244978172/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ishraq.ahmed.14">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/ahmedishraq">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+<!-- new social media icon end -->
+
+
+<!-- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedishraq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishraq-ahmed-esha-244978172/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ishraq.ahmed.14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed_ishraq)  -->
 
 <!-- different way to show top language stats.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedishraq)](https://github.com/anuraghazra/github-readme-stats)
