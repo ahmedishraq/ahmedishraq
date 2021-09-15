@@ -10,6 +10,7 @@ Hi there 👋 I'm Ishraq Ahmed Esha
 ### Software Developer || Programmer || Student || Machine Learning Enthusiast 
 
 - 📫 How to reach me: ishraqahmedbd@gmail.com 
+<hr>
 
 <!-- new social media icon start  -->
 
@@ -25,6 +26,7 @@ Hi there 👋 I'm Ishraq Ahmed Esha
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+<hr>
 
 <!-- new social media icon end -->
 
@@ -53,8 +55,13 @@ Hi there 👋 I'm Ishraq Ahmed Esha
 
 
 <!-- new look for lang-->
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+
 <center>
   <table>
+    <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedishraq&langs_count=12&theme=tokyonight&layout=compact" /></td>
         <!--<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td> -->
      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true&theme=radical" alt="ahmedishraq" /></td>
