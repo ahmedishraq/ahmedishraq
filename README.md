@@ -75,7 +75,9 @@ Hi there 👋 I'm Ishraq Ahmed Esha
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true) --> 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq) 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq&count_private=true&theme=radical" alt="ahmedishraq" />
+
+ 
 
 
 ![Profile views](https://gpvc.arturio.dev/ahmedishraq)  
