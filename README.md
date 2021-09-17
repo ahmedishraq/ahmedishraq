@@ -9,7 +9,9 @@ Hi there 👋 I'm Ishraq Ahmed Esha
 
 ### Software Developer || Programmer || Student || Machine Learning Enthusiast 
 
-- 📫 How to reach me: ishraqahmedbd@gmail.com 
+
+### Contact Me:
+- 📫 [![Gmail Badge](https://img.shields.io/badge/-ishraqahmedbd@gmail.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ishraqahmedbd@gmail.com)](ishraqahmedbd@gmail.com)
 <hr>
 
 <!-- new social media icon start  -->
