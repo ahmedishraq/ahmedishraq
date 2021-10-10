@@ -85,7 +85,9 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true) --> 
 
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq&count_private=true&theme=radical" alt="ahmedishraq" />
+ </p>
 
  
 
