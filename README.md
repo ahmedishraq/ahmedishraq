@@ -14,6 +14,7 @@
 - 📫 [![Gmail Badge](https://img.shields.io/badge/-ishraqahmedbd@gmail.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ishraqahmedbd@gmail.com)](ishraqahmedbd@gmail.com)
 <hr>
 
+
 <!-- new social media icon start  -->
 
 <p align='center'>
@@ -31,6 +32,15 @@
 <hr>
 
 <!-- new social media icon end -->
+
+
+<!-- activity graph start -->
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=ahmedishraq&theme=redical&area=true&hide_border=true" width="100%">
+</a>
+</p>
+
+<!-- activity graph end -->
 
 
 <!-- 
