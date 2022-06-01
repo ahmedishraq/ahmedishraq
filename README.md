@@ -103,6 +103,9 @@
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
-    </div>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true](https://git.io/typing-svg)
+    
 <!-- new feature adding end -->
 
