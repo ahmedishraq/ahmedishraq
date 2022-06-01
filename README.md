@@ -29,6 +29,8 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+
+
 <hr>
 
 <!-- new social media icon end -->
@@ -96,3 +98,11 @@
 
 <!-- New visitor counter -->
 <!-- <h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/ahmedishraq/count.svg"/></h3> -->
+
+<!-- new feature adding start -->
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+<!-- new feature adding end -->
+
