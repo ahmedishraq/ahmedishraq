@@ -68,24 +68,18 @@
 
 <!-- v2 lang end -->
 
-<!-- v2 stat start -->
+<!-- v2 stat & commit start -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedishraq&theme=radical)
-<!-- v2 stat end -->
-
-<!-- v2 commit start -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedishraq&theme=radical&utcOffset=6)
-<!-- v2 commit end -->
+<!-- v2 stat & commit end -->
 
 
 <!-- v1 streak start -->
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq&count_private=true&theme=radical" alt="ahmedishraq" />
- </p>
+</p>
 
 <!-- v1 streak end -->
-
- 
-
 
 ![Profile views](https://gpvc.arturio.dev/ahmedishraq)  
 
