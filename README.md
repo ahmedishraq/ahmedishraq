@@ -35,69 +35,60 @@
 
 <!-- new social media icon end -->
 
+<!-- new v2 profile card start -->
 
-<!-- activity graph start -->
-<p align="center">
+<!-- new v2 profile card end -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedishraq&theme=radical)
+
+<!-- v1 activity graph start -->
+<!-- <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ahmedishraq&theme=redical&area=true&hide_border=true" width="100%">
 </a>
-</p>
-
-<!-- activity graph end -->
-
-
-<!-- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedishraq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishraq-ahmed-esha-244978172/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ishraq.ahmed.14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed_ishraq)  -->
-
-<!-- different way to show top language stats.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedishraq)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-<!-- old version of readme stats -->
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedishraq&show_icons=true&locale=en&layout=compact" alt="ahmedishraq" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true&locale=en" alt="ahmedishraq" /></p> -->
-
-<!-- end old version of readme stats-->
-
-<!-- [![Ishraq's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmedishraq&theme=chartreuse-dark)](https://github.com/ahmedishraq/github-readme-activity-graph) -->
-
-<!-- Graph stat  -->
-<!-- <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ahmedishraq&theme=chartreuse-dark&area=true&hide_border=true" width="100%">
 </p> -->
 
-
-<!-- new look for lang-->
-<!-- <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
+<!-- v1 activity graph end -->
  
 
-<center>
+<!-- v1 look for lang start-->
+<!--<center>
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedishraq&langs_count=12&theme=tokyonight&layout=compact" /></td>
-        <!--<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td> -->
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td> 
      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true&theme=radical" alt="ahmedishraq" /></td>
     </tr>   
   </table>
-</center>
+</center> -->
 
-<!-- end new look for lang -->
+<!-- v1 look for lang end -->
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedishraq&show_icons=true) --> 
+<!-- v2 lang start -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedishraq&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedishraq&theme=radical)
 
+<!-- v2 lang end -->
+
+<!-- v2 stat start -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedishraq&theme=radical)
+<!-- v2 stat end -->
+
+<!-- v2 commit start -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedishraq&theme=radical&utcOffset=6)
+<!-- v2 commit end -->
+
+
+<!-- v1 streak start -->
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedishraq&count_private=true&theme=radical" alt="ahmedishraq" />
  </p>
+
+<!-- v1 streak end -->
 
  
 
 
 ![Profile views](https://gpvc.arturio.dev/ahmedishraq)  
 
-<!-- New visitor counter -->
-<!-- <h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/ahmedishraq/count.svg"/></h3> -->
 
 <!-- new feature adding start -->
 <div align=center>
