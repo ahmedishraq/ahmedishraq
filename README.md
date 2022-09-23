@@ -9,6 +9,11 @@
 
 ### Software Developer || Programmer || Student || Machine Learning Enthusiast 
 
+<!-- v2 GIF start -->
+<p align='center'>
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500"   height="320" />
+</p>
+<!-- v2 GIF end -->
 
 ### Contact Me:
 - 📫 [![Gmail Badge](https://img.shields.io/badge/-ishraqahmedbd@gmail.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ishraqahmedbd@gmail.com)](ishraqahmedbd@gmail.com)
@@ -18,7 +23,6 @@
 <!-- new social media icon start  -->
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/ishraq-ahmed-esha-244978172/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
