@@ -41,15 +41,19 @@
   <a href=" linkedin.com/in/ishraq-ahmed-esha-244978172" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
   </a>
+ <a href="https://www.leetcode.com/https://leetcode.com/ahmed_ishraq" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed_ishraq" height="40" width="80" />
+ </a>
   <a href="https://facebook.com/ishraq.ahmed.14" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="40" alt="facebook logo"  />
+  </a>
+   <a href="https://stackoverflow.com/users/12038717/ishraq-ahmed-esha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="80" height="40" alt="stackoverflow logo"  />
   </a>
   <a href="https://twitter.com/ahmed_ishraq" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/12038717/ishraq-ahmed-esha" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="80" height="40" alt="stackoverflow logo"  />
-  </a>
+ <a href="https://instagram.com/ahmed_ishraq" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_ishraq" height="40" width="80" /></a>
+ <a href="https://kaggle.com/https://www.kaggle.com/ahmedishraq" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmedishraq" height="40" width="80" /></a>
 </div>
 
 
