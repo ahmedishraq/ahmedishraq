@@ -120,12 +120,17 @@
 
 
 <!-- new feature adding start -->
-<div align=center>
+<!--<div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
-</div>
+</div> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
     
 <!-- new feature adding end -->
+
+<!-- ending gif start -->
+<div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
 
