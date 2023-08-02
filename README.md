@@ -20,9 +20,9 @@
 <hr>
 
 
-<!-- new social media icon start  -->
+<!-- old social media icon start  -->
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="https://www.linkedin.com/in/ishraq-ahmed-esha-244978172/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -32,7 +32,28 @@
   <a href="https://www.kaggle.com/ahmedishraq">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p>
+</p> -->
+
+<!-- old social media icon end -->
+
+<!-- new social media icon start-->
+<div align="center">
+  <a href=" linkedin.com/in/ishraq-ahmed-esha-244978172" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://facebook.com/ishraq.ahmed.14" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/ahmed_ishraq" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/12038717/ishraq-ahmed-esha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="80" height="40" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+
+<!-- new social media icon end -->
 
 
 <hr>
@@ -85,7 +106,13 @@
 
 <!-- v1 streak end -->
 
-![Profile views](https://gpvc.arturio.dev/ahmedishraq)  
+<!-- visitor count start -->
+<div align="left">
+  <img src="https://profile-counter.glitch.me/ahmedishraq/count.svg?"  />
+</div>
+
+<!-- visitor count end -->
+ 
 
 
 <!-- new feature adding start -->
