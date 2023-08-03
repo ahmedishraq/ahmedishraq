@@ -69,6 +69,7 @@
 <!-- new v2 profile card end -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedishraq&theme=radical)
 
+
 <!-- v1 activity graph start -->
 <!-- <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ahmedishraq&theme=redical&area=true&hide_border=true" width="100%">
@@ -129,8 +130,15 @@
     
 <!-- new feature adding end -->
 
+<p align='center'>
+ <img align="center" alt="GIF" src="https://github.com/ahmedishraq/ahmedishraq/blob/main/bd_flag.png?raw=true" width="140"   height="80" />
+</p>
+
+
 <!-- ending gif start -->
 <div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
+
+
 
