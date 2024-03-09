@@ -7,7 +7,7 @@
   <a href="https://github.com/ahmedishraq/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Programmer;Student;Machine%20Learning%20Enthusisat&font=Fira%20Code&center=true&width=440&height=45&color=03A062&vCenter=true&size=22"></a>
 </p> -->
 
-### Software Developer || Programmer || Student || Machine Learning Enthusiast 
+### Software Developer || Programmer || Software Tester || Machine Learning Enthusiast 
 
 <!-- v2 GIF start -->
 <p align='center'>
